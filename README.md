@@ -35,17 +35,17 @@ _**Note**: Files must `not contain spaces`._
   
     * `Linux/Unix`:
     
-    ```shell
-    - dark/filters.sh
-    - light/filters.sh
-    ````
+      ```shell
+      - dark/filters.sh
+      - light/filters.sh
+      ````
     
     * `Windows`:
-    
-    ```shell
-    - dark/filters.cmd
-    - light/filters.cmd
-    ````
+      
+      ```shell
+      - dark/filters.cmd
+      - light/filters.cmd
+      ````
     
 # Images (Dark Theme & Light Theme):
 
